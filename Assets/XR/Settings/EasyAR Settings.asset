@@ -37,9 +37,9 @@ MonoBehaviour:
     APIKey: 
     APISecret: 
   GlobalSpatialMapServiceConfig:
-    AppID: 
-    APIKey: 
-    APISecret: 
+    AppID: C:CN1:b982ff499f0bbab6fdedd03f211f2c74
+    APIKey: 8072b6e305a3232bd7cb20e351917e3e
+    APISecret: 3ea69dd066fc5bf6628320750418556538738105ac6953f0b52476c9e6c91662
   GlobalCloudRecognizerServiceConfig:
     AppID: 
     ServerAddress: 

@@ -10,3 +10,6 @@ EditorBuildSettings:
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     EasyAR.Settings: {fileID: 11400000, guid: 4f2ba46e6ae5c784686e4c6d9a8ab11b, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e839b8c9b650cf34dbc2e067f545fb99, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2073480bfb885e6428645bda0e238c55, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e19d8efbebfdc3544b1b6b11fbadfc1b, type: 2}
