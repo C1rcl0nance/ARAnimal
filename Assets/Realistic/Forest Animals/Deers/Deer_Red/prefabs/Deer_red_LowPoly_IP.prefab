@@ -579,6 +579,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4415147620166228}
   - component: {fileID: 95887767687408246}
+  - component: {fileID: 386718322131882474}
   m_Layer: 0
   m_Name: Deer_red_LowPoly_IP
   m_TagString: Untagged
@@ -624,6 +625,29 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!136 &386718322131882474
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1372380060755100}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 1.3
+  m_Height: 2.8
+  m_Direction: 1
+  m_Center: {x: 0, y: 1.08, z: 0.1}
 --- !u!1 &1386445353176744
 GameObject:
   m_ObjectHideFlags: 0

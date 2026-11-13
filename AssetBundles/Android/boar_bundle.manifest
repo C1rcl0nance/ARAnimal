@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 4256498997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec41aa73c9066ba5c7c17325990eb04f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7f2eec184f9bab4d0e08bac7a52e2117
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ec41aa73c9066ba5c7c17325990eb04f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Realistic/Forest Animals/Boar_Family/Boar_Cub/prefabs/Boar_cub_Lowpoly_IP.prefab
+- Assets/Realistic/Forest Animals/Boar_Family/Boar_Male/prefabs/Boar_Male_Lowpoly_IP.prefab
+- Assets/Realistic/Forest Animals/Boar_Family/Boar_Female/prefabs/Boar_Female_Mobile_IP.prefab
+Dependencies: []

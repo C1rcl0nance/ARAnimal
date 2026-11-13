@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2090836172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a66959a7c5c14e0f2e32b95506c8df68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7f2eec184f9bab4d0e08bac7a52e2117
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a66959a7c5c14e0f2e32b95506c8df68
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Realistic/Forest Animals/Fox_Family/Fox_Male/prefabs/Fox_male_LowPoly_IP.prefab
+- Assets/Realistic/Forest Animals/Fox_Family/Fox_Cub/prefabs/Fox_cub_LowPoly_IP.prefab
+Dependencies: []

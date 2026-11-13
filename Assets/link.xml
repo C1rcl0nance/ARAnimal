@@ -1,0 +1,6 @@
+<linker>
+  <assembly fullname="RTVoice">
+    <type fullname="Crosstales.RTVoice.Speaker" preserve="all"/>
+    <type fullname="Crosstales.RTVoice.Provider.VoiceProviderAndroid" preserve="all"/>
+  </assembly>
+</linker>

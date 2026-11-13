@@ -6,9 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/MapBuildScene.unity
+    guid: d7308d08c1496e54ba2aaf63cbada0fd
   m_configObjects:
+    EasyAR.Mega.Studio.Settings: {fileID: 11400000, guid: cf4786fb5eff1d2489aa6f10b705399e, type: 2}
     EasyAR.Settings: {fileID: 11400000, guid: 4f2ba46e6ae5c784686e4c6d9a8ab11b, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e839b8c9b650cf34dbc2e067f545fb99, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2073480bfb885e6428645bda0e238c55, type: 2}

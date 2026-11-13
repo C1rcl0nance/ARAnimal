@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 729051103
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bear_bundle
+      Dependencies: {}
+    Info_1:
+      Name: boar_bundle
+      Dependencies: {}
+    Info_2:
+      Name: deer_bundle
+      Dependencies: {}
+    Info_3:
+      Name: fox_bundle
+      Dependencies: {}
+    Info_4:
+      Name: hare_bundle
+      Dependencies: {}
+    Info_5:
+      Name: moose_bundle
+      Dependencies: {}
+    Info_6:
+      Name: wolf_bundle
+      Dependencies: {}

@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 945674111
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c47872a36370094eed8b8dc548beeb33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7f2eec184f9bab4d0e08bac7a52e2117
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c47872a36370094eed8b8dc548beeb33
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Realistic/Forest Animals/Deers/Deer_Red/prefabs/Deer_red_LowPoly_IP.prefab
+- Assets/Realistic/Forest Animals/Deers/Deer Family/Deer_Calf/prefabs/Deer_calf_LowPoly_IP.prefab
+- Assets/Realistic/Forest Animals/Deers/Deer Family/Deer_Doe/prefabs/Deer_doe_LowPoly_IP.prefab
+- Assets/Realistic/Forest Animals/Deers/Deer Family/Deer_Stag/prefabs/Deer_stag_LowPoly_IP.prefab
+Dependencies: []

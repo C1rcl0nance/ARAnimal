@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1043135392
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 280f725a791f4b727c7f29acba9df0ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e422a73b4511c0e6dd16f04435cec9ce
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 280f725a791f4b727c7f29acba9df0ea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Realistic/Forest Animals/Deers/Deer_Red/prefabs/Deer_red_LowPoly_IP.prefab
+- Assets/Realistic/Forest Animals/Fox_Family/Fox_Male/prefabs/Fox_male_LowPoly_IP.prefab
+- Assets/Realistic/Forest Animals/Hare_Family/Hare_Male/prefabs/Hare_male_LowPoly_IP.prefab
+- Assets/Realistic/Forest Animals/Boar_Family/Boar_Male/prefabs/Boar_Male_Lowpoly_IP.prefab
+- Assets/Realistic/Forest Animals/Wolf_Family/Wolf_Male/prefabs/Wolf_male_LowPoly_C1.prefab
+- Assets/Realistic/Forest Animals/Moose_Family/Moose_bull/prefabs/Moose_bull_LowPoly_IP.prefab
+- Assets/Realistic/Forest Animals/Bear_Family/Bear_Male/prefabs/Bear_male_LowPoly_IP.prefab
+Dependencies: []
